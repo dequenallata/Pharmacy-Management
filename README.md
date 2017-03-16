@@ -1,7 +1,7 @@
 ## Pharmacy Management
 
 "Pharmacy Management" is a web application to simplify the all management issues in a pharmacy shop.
-It Provides some simple features
+It Provides some feasible features
 - Store medicine information including generic name,company name,price rate.
 - Using it one can say easyly that medicines are available or not by looking status. 
 - Create memo for customers with list of medicines and total prices according to their demand.
@@ -14,5 +14,5 @@ It Provides some simple features
 - MongoDB v3.2
 
 ## Additional Tools
-- Add MongoDB to Laravel Framework by Using [https://github.com/jenssegers/laravel-mongodb
-- Add MongoDB driver for PHP from [https://pecl.php.net/package/mongodb
+- Add MongoDB to Laravel Framework by Using https://github.com/jenssegers/laravel-mongodb
+- Add MongoDB driver for PHP from https://pecl.php.net/package/mongodb
